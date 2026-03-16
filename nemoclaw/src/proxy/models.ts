@@ -54,7 +54,7 @@ const CURATED_MODELS_LIST: CuratedModel[] = [
     maxOutput: 8192,
   },
   {
-    id: "nvidia/nemotron-3-super",
+    id: "nvidia/nemotron-3-super-120b-a12b",
     prefixedId: prefixed("nvidia/nemotron-3-super"),
     label: "Nemotron 3 Super",
     extraBody: {
